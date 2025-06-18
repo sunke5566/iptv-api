@@ -1,12 +1,11 @@
 🕘️更新时间,#genre#
-2025-06-18 18:15:35,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=E60gt1&tk=Qm95Yth8Uj0Y
+2025-06-18 19:01:28,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=E60gt1&tk=Qm95Yth8Uj0Y
 
 极速港台,#genre#
 凤凰中文台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=E60gt1&tk=Qm95Yth8Uj0Y
 凤凰资讯台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=0vfWKV&tk=Qm95Yth8Uj0Y
 凤凰香港台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=SQAJ0A&tk=Qm95Yth8Uj0Y
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
-翡翠台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=cy2mjY&tk=Qm95Yth8Uj0Y
 无线新闻台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=7nZOuO&tk=Qm95Yth8Uj0Y
 TVB生活台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=M4RKZt&tk=Qm95Yth8Uj0Y
 TVB星河(国),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=EkoDKn&tk=Qm95Yth8Uj0Y
@@ -27,13 +26,13 @@ HOY77,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=2olcJ6&tk=Qm95Yth8Uj0Y
 HOY78,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=R1dePt&tk=Qm95Yth8Uj0Y
 中天亚洲,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=uWGShu&tk=Qm95Yth8Uj0Y
 中天综合,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=QESbHm&tk=Qm95Yth8Uj0Y
+中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
 中天娱乐,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=vFxg4h&tk=Qm95Yth8Uj0Y
 中天亚洲(备),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Kkp2QE&tk=Qm95Yth8Uj0Y
 民视第一,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=5D5D57&tk=Qm95Yth8Uj0Y
 民视台湾,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=babtSM&tk=Qm95Yth8Uj0Y
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&amp;time=20240926215313&amp;ip=111.229.253.40
-东森综合,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=jJniCN&tk=Qm95Yth8Uj0Y
 八大第一,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ud2Pca&tk=Qm95Yth8Uj0Y
 八大综合,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=UHDHc4&tk=Qm95Yth8Uj0Y
 爱尔达娱乐,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=xvlVa8&tk=Qm95Yth8Uj0Y
@@ -48,6 +47,7 @@ ChannelUHD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=jNVP1O&tk=Qm95Yth8Uj0Y
 中天新闻2,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Xqe0jB&tk=Qm95Yth8Uj0Y
 中视新闻,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=mo2MBG&tk=Qm95Yth8Uj0Y
 TVBS HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=BgF1dJ&tk=Qm95Yth8Uj0Y
+TVBS HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=JPwMAA&tk=Qm95Yth8Uj0Y
 TVBS HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=sTChzg&tk=Qm95Yth8Uj0Y
 台视新闻,http://222.128.55.152:9080/live/ts.m3u8
 台视新闻,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=h7V4UH&tk=Qm95Yth8Uj0Y
@@ -105,6 +105,7 @@ NHK世界HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=5Olxqm&tk=Qm95Yth8Uj0Y
 鏡電視新聞台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=qTOuWb&tk=Qm95Yth8Uj0Y
 好萊塢電影HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=H7uCxr&tk=Qm95Yth8Uj0Y
 緯來電影HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=tsDPCC&tk=Qm95Yth8Uj0Y
+龍華電影台,http://aktv-stream.m16tv.cfd/stream/taiwan/null-8/AKTV.m3u8
 龍華電影台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=F8z0M8&tk=Qm95Yth8Uj0Y
 HBO,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=VJOq0k&tk=Qm95Yth8Uj0Y
 AXN,http://aktv-stream.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
@@ -125,10 +126,8 @@ momo綜合台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=b5mgN7&tk=Qm95Yth8Uj0
 香港有线18台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Zlrzkj&tk=Qm95Yth8Uj0Y
 香港有线18台(普通话),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=zFMpvp&tk=Qm95Yth8Uj0Y
 TVB无线新闻台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=SFF3HU&tk=Qm95Yth8Uj0Y
-TVB翡翠台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=w6CrIT&tk=Qm95Yth8Uj0Y
 黃金翡翠台,http://aktv-stream.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8
 黃金翡翠台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=4TLtN5&tk=Qm95Yth8Uj0Y
-TVB明珠台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=z7MObT&tk=Qm95Yth8Uj0Y
 TVB娱乐新闻台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=IrWofY&tk=Qm95Yth8Uj0Y
 TVB星河,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=X89Cd9&tk=Qm95Yth8Uj0Y
 myTV SUPER 18台,http://aktv-stream.m16tv.cfd/stream/aktv/mytvsuper18/AKTV.m3u8
@@ -140,7 +139,6 @@ NOW新闻台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=T90xsd&tk=Qm95Yth8Uj0Y
 NOW财经台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=y16NJo&tk=Qm95Yth8Uj0Y
 NOW SPORTS PRIME,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=7II3YQ&tk=Qm95Yth8Uj0Y
 HOY国际财经台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=jMBlb0&tk=Qm95Yth8Uj0Y
-HOY TV,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=PDpm2v&tk=Qm95Yth8Uj0Y
 HOY资讯台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=e5kp6t&tk=Qm95Yth8Uj0Y
 东森新闻台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ANZZ7A&tk=Qm95Yth8Uj0Y
 东森财经新闻台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=FaIoDg&tk=Qm95Yth8Uj0Y
@@ -149,6 +147,7 @@ HOY资讯台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=e5kp6t&tk=Qm95Yth8Uj0Y
 台视新闻台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=YdyV3R&tk=Qm95Yth8Uj0Y
 中视新闻台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=zd3lyW&tk=Qm95Yth8Uj0Y
 华视新闻台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=VbwaXE&tk=Qm95Yth8Uj0Y
+TVBS新闻台,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS新闻台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=3cpTqv&tk=Qm95Yth8Uj0Y
 三立新闻台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=PTiS4c&tk=Qm95Yth8Uj0Y
 三立iNEWS,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=lsDHoV&tk=Qm95Yth8Uj0Y
@@ -195,7 +194,10 @@ TVB Plus,url
 美亚电影,url
 Taiwan Plus,url
 TVBS HD,url
+TVB翡翠台,url
+TVB明珠台,url
 TVB Plus,url
+HOY TV,url
 港台电视31,url
 港台电视32,url
 中天新闻台,url
