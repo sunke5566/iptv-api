@@ -2,3 +2,15 @@
 # This is a list of subscription sources, with one subscription address per line
 
 http://kkk.888.3116598.xyz/user/HKTV.txt
+https:/cccimg.com/down.php/bff36da26c7fa82e6943f3f55014cb80.txt
+https://vip.123pan.cn/1814643527/tv/qwt.m3u
+https://live.kakaxi-1.ink/ipv4.1.txt
+https://tv.iill.top/m3u/MyTV
+https://git.acwing.com/cisenyuan/kdsb/-/raw/main/txt/tvzb.txt
+https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
+https://raw.githubusercontent.com/suxuang/mylPTV/main/ipv4.m3u
+https://smart.pendy.dpdns.org/m3u/merged judy.m3u
+http://go8.myartsonline.com/zx/0/TVBTV.txt
+http://go8.myartsonline.com/zx/0/HKTV.txt
+http://twv.tw/github.com/fafa002/yf2025/blob/main/yiyifafa.txt
+https://bit.ly/suxuang-v4
