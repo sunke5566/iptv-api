@@ -1,195 +1,195 @@
-Name: 凤凰中文台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=E60gt1&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 119 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 凤凰资讯台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=0vfWKV&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 130 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 凤凰香港台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=SQAJ0A&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 117 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 凤凰中文台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=E60gt1&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 106 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 凤凰资讯台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=0vfWKV&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 113 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 凤凰香港台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=SQAJ0A&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 107 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: 翡翠台, URL: http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 翡翠台, URL: http://cdn9.163189.xyz/smt1.1.php?id=jade_twn, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 翡翠台, URL: http://v2h.jdshipin.com:80/jade2/jade.stream/chunklist_w100.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 翡翠台, URL: http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 翡翠台, URL: https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 27 ms, Speed: 11.57 M/s, Resolution: 1920x1080
-Name: 无线新闻台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=7nZOuO&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 113 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 翡翠台, URL: http://v2h.jdshipin.com:80/jade2/jade.stream/chunklist_w100.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 翡翠台, URL: https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 37 ms, Speed: 8.39 M/s, Resolution: 1920x1080
+Name: 无线新闻台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=7nZOuO&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 120 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: TVB Plus, URL: https://stream1.freetv.fun/tvb-j2-2.ctv, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: TVB生活台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=M4RKZt&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 117 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: TVB星河(国), URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=EkoDKn&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 125 ms, Speed: 0.00 M/s, Resolution: 1280x720
-Name: TVB功夫(国), URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=2WOC6x&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 121 ms, Speed: 0.00 M/s, Resolution: 1280x720
-Name: TVB功夫(粤), URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=50QmHE&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 114 ms, Speed: 0.00 M/s, Resolution: 1280x720
-Name: PopC电影台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=0pD5xQ&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 110 ms, Speed: 0.00 M/s, Resolution: None
-Name: 黄金华剧台(国), URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=LsXkKt&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 110 ms, Speed: 0.00 M/s, Resolution: None
-Name: 黄金华剧台(粤), URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=vRIWuj&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 111 ms, Speed: 0.00 M/s, Resolution: 1280x720
-Name: Hub娱家, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=jGh3yc&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 109 ms, Speed: 0.00 M/s, Resolution: 1024x576
-Name: Hub都会, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=M80otr&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 110 ms, Speed: 0.00 M/s, Resolution: 1024x576
-Name: 星空卫视, URL: https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 25 ms, Speed: 12.20 M/s, Resolution: 1920x1080
-Name: 星空V音乐, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=qB1Lht&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 114 ms, Speed: 0.00 M/s, Resolution: 720x576
-Name: 星空电影, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Ubb5kw&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 106 ms, Speed: 0.00 M/s, Resolution: None
-Name: 凤凰电影, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=0njXlO&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 109 ms, Speed: 0.00 M/s, Resolution: 720x576
-Name: Now爆谷台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=7lYJC1&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 111 ms, Speed: 0.00 M/s, Resolution: None
-Name: Now星影台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=jqWzLl&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 111 ms, Speed: 0.00 M/s, Resolution: None
+Name: TVB星河(国), URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=EkoDKn&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 118 ms, Speed: 0.00 M/s, Resolution: 1280x720
+Name: TVB功夫(国), URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=2WOC6x&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 116 ms, Speed: 0.00 M/s, Resolution: 1280x720
+Name: TVB功夫(粤), URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=50QmHE&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 111 ms, Speed: 0.00 M/s, Resolution: 1280x720
+Name: PopC电影台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=0pD5xQ&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 109 ms, Speed: 0.00 M/s, Resolution: None
+Name: 黄金华剧台(国), URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=LsXkKt&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 111 ms, Speed: 0.00 M/s, Resolution: None
+Name: 黄金华剧台(粤), URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=vRIWuj&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 106 ms, Speed: 0.00 M/s, Resolution: 1280x720
+Name: Hub娱家, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=jGh3yc&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 127 ms, Speed: 0.00 M/s, Resolution: 1024x576
+Name: Hub都会, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=M80otr&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 113 ms, Speed: 0.00 M/s, Resolution: 1024x576
+Name: 星空卫视, URL: https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 25 ms, Speed: 12.28 M/s, Resolution: 1920x1080
+Name: 星空V音乐, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=qB1Lht&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 112 ms, Speed: 0.00 M/s, Resolution: 720x576
+Name: 星空电影, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Ubb5kw&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 112 ms, Speed: 0.00 M/s, Resolution: None
+Name: 凤凰电影, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=0njXlO&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 112 ms, Speed: 0.00 M/s, Resolution: 720x576
+Name: Now爆谷台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=7lYJC1&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 106 ms, Speed: 0.00 M/s, Resolution: None
+Name: Now星影台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=jqWzLl&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 110 ms, Speed: 0.00 M/s, Resolution: None
 Name: HOY77, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=2olcJ6&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 112 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: HOY78, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=R1dePt&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 108 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 中天亚洲, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=uWGShu&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 104 ms, Speed: 0.00 M/s, Resolution: 1280x720
-Name: 中天综合, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=QESbHm&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 106 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 中天娱乐, URL: http://61.221.215.25:8800/hls/47/index.m3u8, IPv_Type: ipv4, Location: 中国-台湾, ISP: 中华电信, Date: None, Delay: 7391 ms, Speed: 0.27 M/s, Resolution: 1280x720
-Name: 中天娱乐, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=vFxg4h&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 105 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 中天亚洲(备), URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Kkp2QE&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 109 ms, Speed: 0.00 M/s, Resolution: 1280x720
-Name: 民视第一, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=5D5D57&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 111 ms, Speed: 0.00 M/s, Resolution: 1280x720
-Name: 民视台湾, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=babtSM&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 110 ms, Speed: 0.00 M/s, Resolution: 1280x720
+Name: HOY78, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=R1dePt&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 110 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 中天亚洲, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=uWGShu&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 109 ms, Speed: 0.00 M/s, Resolution: 1280x720
+Name: 中天综合, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=QESbHm&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 111 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 中天娱乐, URL: http://61.221.215.25:8800/hls/47/index.m3u8, IPv_Type: ipv4, Location: 中国-台湾, ISP: 中华电信, Date: None, Delay: 7171 ms, Speed: 0.27 M/s, Resolution: 1280x720
+Name: 中天娱乐, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=vFxg4h&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 110 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 中天亚洲(备), URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Kkp2QE&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 107 ms, Speed: 0.00 M/s, Resolution: 1280x720
+Name: 民视第一, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=5D5D57&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 110 ms, Speed: 0.00 M/s, Resolution: 1280x720
+Name: 民视台湾, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=babtSM&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 108 ms, Speed: 0.00 M/s, Resolution: 1280x720
 Name: 美亚电影, URL: https://live.tvfix.org/live/mydy/index.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 东森超视, URL: https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 25 ms, Speed: 12.30 M/s, Resolution: 1920x1080
-Name: 东森综合, URL: https://cdn.iptv8k.top/dl/jrys.php?id=221&amp;time=20240926215313&amp;ip=111.229.253.40, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 27 ms, Speed: 11.63 M/s, Resolution: 1920x1080
-Name: 八大第一, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ud2Pca&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 106 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 八大综合, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=UHDHc4&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 117 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 爱尔达娱乐, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=xvlVa8&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 111 ms, Speed: 0.00 M/s, Resolution: 1280x720
-Name: Channel5HD, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=96mD5a&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 107 ms, Speed: 0.00 M/s, Resolution: 640x480
-Name: Channel8HD, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=YH31Gz&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 109 ms, Speed: 0.00 M/s, Resolution: 640x480
-Name: ChannelUHD, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=jNVP1O&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 107 ms, Speed: 0.00 M/s, Resolution: 640x480
-Name: 八度空間, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=gfVhuL&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 112 ms, Speed: 0.00 M/s, Resolution: 640x480
-Name: 寰宇新闻台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ppFzGl&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 111 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 寰宇新闻台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=3YK5ll&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 114 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 中天新闻台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=qWjUr2&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 107 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 中天新闻台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=raTViI&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 109 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 中天新闻2, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Xqe0jB&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 117 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 中视新闻, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=mo2MBG&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 111 ms, Speed: 0.00 M/s, Resolution: 1280x720
-Name: TVBS HD, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=BgF1dJ&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 107 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 东森超视, URL: https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 26 ms, Speed: 11.98 M/s, Resolution: 1920x1080
+Name: 东森综合, URL: https://cdn.iptv8k.top/dl/jrys.php?id=221&amp;time=20240926215313&amp;ip=111.229.253.40, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 23 ms, Speed: 13.68 M/s, Resolution: 1920x1080
+Name: 八大第一, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ud2Pca&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 109 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 八大综合, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=UHDHc4&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 111 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 爱尔达娱乐, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=xvlVa8&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 122 ms, Speed: 0.00 M/s, Resolution: 1280x720
+Name: Channel5HD, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=96mD5a&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 108 ms, Speed: 0.00 M/s, Resolution: 640x480
+Name: Channel8HD, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=YH31Gz&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 123 ms, Speed: 0.00 M/s, Resolution: 640x480
+Name: ChannelUHD, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=jNVP1O&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 125 ms, Speed: 0.00 M/s, Resolution: 640x480
+Name: 八度空間, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=gfVhuL&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 107 ms, Speed: 0.00 M/s, Resolution: 640x480
+Name: 寰宇新闻台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ppFzGl&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 116 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 寰宇新闻台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=3YK5ll&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 109 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 中天新闻台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=qWjUr2&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 109 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 中天新闻台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=raTViI&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 106 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 中天新闻2, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Xqe0jB&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 106 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 中视新闻, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=mo2MBG&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 110 ms, Speed: 0.00 M/s, Resolution: 1280x720
+Name: TVBS HD, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=BgF1dJ&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 108 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: TVBS HD, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=JPwMAA&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 109 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: TVBS HD, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=sTChzg&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 110 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 台视新闻, URL: http://222.128.55.152:9080/live/ts.m3u8, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 联通, Date: None, Delay: 10467 ms, Speed: 0.35 M/s, Resolution: 1920x1080
-Name: 台视新闻, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=h7V4UH&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 110 ms, Speed: 0.00 M/s, Resolution: 1280x720
-Name: 动物星球, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ai6Xjb&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 108 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 中視HD, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=cYtHi6&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 112 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 華視HD, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ePXnYa&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 106 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 民視HD, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=lhsIlB&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 106 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 公視, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=AR9hCB&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 106 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 人間衛視, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=aSm7Li&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 108 ms, Speed: 0.00 M/s, Resolution: None
-Name: 大愛電視, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=YVMHcG&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 106 ms, Speed: 0.00 M/s, Resolution: None
+Name: 台视新闻, URL: http://222.128.55.152:9080/live/ts.m3u8, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 联通, Date: None, Delay: 10099 ms, Speed: 0.21 M/s, Resolution: 1920x1080
+Name: 台视新闻, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=h7V4UH&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 108 ms, Speed: 0.00 M/s, Resolution: 1280x720
+Name: 动物星球, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ai6Xjb&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 106 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 中視HD, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=cYtHi6&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 107 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 華視HD, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ePXnYa&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 115 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 民視HD, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=lhsIlB&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 107 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 公視, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=AR9hCB&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 105 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 人間衛視, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=aSm7Li&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 105 ms, Speed: 0.00 M/s, Resolution: None
+Name: 大愛電視, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=YVMHcG&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 107 ms, Speed: 0.00 M/s, Resolution: None
 Name: 好消息GOOD TV, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=R2mH2w&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 107 ms, Speed: 0.00 M/s, Resolution: None
-Name: Trace Sport Stars, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Ojt7RH&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 126 ms, Speed: 0.00 M/s, Resolution: None
+Name: Trace Sport Stars, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Ojt7RH&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 106 ms, Speed: 0.00 M/s, Resolution: None
 Name: DISCOVERY, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=KGPjAc&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 109 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 旅遊生活, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=xN4es0&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 107 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 動物星球, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Psg6dG&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 112 ms, Speed: 0.00 M/s, Resolution: None
-Name: 亞洲旅遊, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ZRaS4t&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 105 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: MOMO親子台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=JG2E75&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 105 ms, Speed: 0.00 M/s, Resolution: None
-Name: 東森幼幼HD, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=fZnXX0&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 178 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 旅遊生活, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=xN4es0&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 133 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 動物星球, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Psg6dG&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 105 ms, Speed: 0.00 M/s, Resolution: None
+Name: 亞洲旅遊, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ZRaS4t&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 108 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: MOMO親子台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=JG2E75&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 111 ms, Speed: 0.00 M/s, Resolution: None
+Name: 東森幼幼HD, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=fZnXX0&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 107 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: 龍華卡通台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=yjw2BL&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 111 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: 緯來綜合HD, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=laxeLY&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 106 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 八大第一HD, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=HJ99tz&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 105 ms, Speed: 0.00 M/s, Resolution: None
-Name: 八大綜合HD, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=OuA3l6&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 106 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 三立台灣HD, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=uTnx1G&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 107 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 三立都會HD, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=sOX1bm&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 109 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 韓國娛樂台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=aFlC4c&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 108 ms, Speed: 0.00 M/s, Resolution: None
-Name: 東森綜合HD, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=FhJ0vw&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 108 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 超視HD, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=I4OTwa&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 106 ms, Speed: 0.00 M/s, Resolution: None
+Name: 八大第一HD, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=HJ99tz&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 107 ms, Speed: 0.00 M/s, Resolution: None
+Name: 八大綜合HD, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=OuA3l6&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 108 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 三立台灣HD, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=uTnx1G&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 113 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 三立都會HD, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=sOX1bm&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 106 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 韓國娛樂台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=aFlC4c&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 106 ms, Speed: 0.00 M/s, Resolution: None
+Name: 東森綜合HD, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=FhJ0vw&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 109 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 超視HD, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=I4OTwa&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 110 ms, Speed: 0.00 M/s, Resolution: None
 Name: 中天綜合HD, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=MDT9BH&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 109 ms, Speed: 0.00 M/s, Resolution: None
-Name: 中天娛樂HD, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=n4sDXY&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 110 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 東風衛視, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=icr6JE&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 111 ms, Speed: 0.00 M/s, Resolution: None
-Name: MUCH TV, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=9QeIRs&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 106 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 東森戲劇HD, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=d1OdO4&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 119 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 八大戲劇HD, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=0w9HgF&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 107 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: TVBS歡樂HD, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=NIcab8&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 104 ms, Speed: 0.00 M/s, Resolution: None
-Name: 緯來戲劇, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=igLAug&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 106 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 龍華戲劇台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=s2jAit&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 106 ms, Speed: 0.00 M/s, Resolution: None
-Name: 龍華日韓劇, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=nUb2b0&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 108 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 龍華偶像劇, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ZjsO2j&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 109 ms, Speed: 0.00 M/s, Resolution: None
-Name: 緯來日本HD, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=kqg1VQ&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 107 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 中天娛樂HD, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=n4sDXY&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 106 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 東風衛視, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=icr6JE&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 105 ms, Speed: 0.00 M/s, Resolution: None
+Name: MUCH TV, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=9QeIRs&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 111 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 東森戲劇HD, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=d1OdO4&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 109 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 八大戲劇HD, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=0w9HgF&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 122 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: TVBS歡樂HD, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=NIcab8&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 119 ms, Speed: 0.00 M/s, Resolution: None
+Name: 緯來戲劇, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=igLAug&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 118 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 龍華戲劇台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=s2jAit&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 124 ms, Speed: 0.00 M/s, Resolution: None
+Name: 龍華日韓劇, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=nUb2b0&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 107 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 龍華偶像劇, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ZjsO2j&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 104 ms, Speed: 0.00 M/s, Resolution: None
+Name: 緯來日本HD, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=kqg1VQ&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 110 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: Taiwan Plus, URL: https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8, IPv_Type: ipv6, Location: 美国, ISP: Akamai Technologies Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 年代新聞, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=WxbT2M&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 107 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 年代新聞, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=WxbT2M&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 106 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: 東森新聞HD, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=AQo8ac&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 106 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 中天新聞, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=i8oUrS&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 106 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 中天新聞, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=i8oUrS&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 109 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: 民視新聞, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=iP8VMx&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 107 ms, Speed: 0.00 M/s, Resolution: None
 Name: 三立新聞HD, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=j4lr5M&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 106 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: TVBS新聞HD, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=BcuiMW&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 108 ms, Speed: 0.00 M/s, Resolution: None
-Name: 非凡新聞HD, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=tMEKXz&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 110 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 非凡商業HD, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=pkI86l&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 106 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 東森財經HD, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=SMo5MI&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 105 ms, Speed: 0.00 M/s, Resolution: None
-Name: 寰宇新聞, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=QpAPnO&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 107 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 壹新聞, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=d8Yiok&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 105 ms, Speed: 0.00 M/s, Resolution: None
-Name: Bloomberg News, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ESX9KI&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 109 ms, Speed: 0.00 M/s, Resolution: None
-Name: NHK世界HD, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=5Olxqm&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 106 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: TVBS新聞HD, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=BcuiMW&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 112 ms, Speed: 0.00 M/s, Resolution: None
+Name: 非凡新聞HD, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=tMEKXz&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 106 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 非凡商業HD, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=pkI86l&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 110 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 東森財經HD, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=SMo5MI&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 110 ms, Speed: 0.00 M/s, Resolution: None
+Name: 寰宇新聞, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=QpAPnO&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 106 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 壹新聞, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=d8Yiok&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 106 ms, Speed: 0.00 M/s, Resolution: None
+Name: Bloomberg News, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ESX9KI&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 106 ms, Speed: 0.00 M/s, Resolution: None
+Name: NHK世界HD, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=5Olxqm&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 105 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: 鏡電視新聞台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=qTOuWb&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 108 ms, Speed: 0.00 M/s, Resolution: None
 Name: 好萊塢電影HD, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=H7uCxr&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 106 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: 緯來電影HD, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=tsDPCC&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 106 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 龍華電影台, URL: http://aktv-stream.m16tv.cfd/stream/taiwan/null-8/AKTV.m3u8, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 44 ms, Speed: 1.05 M/s, Resolution: 1280x720
-Name: 龍華電影台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=F8z0M8&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 112 ms, Speed: 0.00 M/s, Resolution: None
-Name: HBO, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=VJOq0k&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 109 ms, Speed: 0.00 M/s, Resolution: None
-Name: AXN, URL: http://aktv-stream.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 36 ms, Speed: 1.27 M/s, Resolution: 1280x720
-Name: AXN, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=8UxP4T&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 111 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: CINEMAX HD, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=z482fr&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 112 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: AMC 電影台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=byKGMn&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 109 ms, Speed: 0.00 M/s, Resolution: None
-Name: 寵物頻道, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=O9j9c4&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 106 ms, Speed: 0.00 M/s, Resolution: None
-Name: 緯來育樂HD, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=7rkjU8&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 106 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 緯來體育HD, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=fz7U8N&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 107 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 博斯運動一, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=3ahRLi&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 111 ms, Speed: 0.00 M/s, Resolution: None
-Name: momo綜合台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=b5mgN7&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 105 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 凤凰卫视中文台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=FfUdds&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 107 ms, Speed: 0.00 M/s, Resolution: 1280x720
-Name: 凤凰卫视资讯台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=4TqY6i&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 111 ms, Speed: 0.00 M/s, Resolution: 1280x720
-Name: 凤凰卫视香港台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=E3MlwZ&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 110 ms, Speed: 0.00 M/s, Resolution: 1280x720
+Name: 龍華電影台, URL: http://aktv-stream.m16tv.cfd/stream/taiwan/null-8/AKTV.m3u8, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 35 ms, Speed: 1.22 M/s, Resolution: 1280x720
+Name: 龍華電影台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=F8z0M8&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 114 ms, Speed: 0.00 M/s, Resolution: None
+Name: HBO, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=VJOq0k&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 106 ms, Speed: 0.00 M/s, Resolution: None
+Name: AXN, URL: http://aktv-stream.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 38 ms, Speed: 1.23 M/s, Resolution: 1280x720
+Name: AXN, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=8UxP4T&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 109 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CINEMAX HD, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=z482fr&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 107 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: AMC 電影台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=byKGMn&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 126 ms, Speed: 0.00 M/s, Resolution: None
+Name: 寵物頻道, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=O9j9c4&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 108 ms, Speed: 0.00 M/s, Resolution: None
+Name: 緯來育樂HD, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=7rkjU8&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 107 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 緯來體育HD, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=fz7U8N&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 105 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 博斯運動一, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=3ahRLi&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 108 ms, Speed: 0.00 M/s, Resolution: None
+Name: momo綜合台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=b5mgN7&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 107 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 凤凰卫视中文台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=FfUdds&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 111 ms, Speed: 0.00 M/s, Resolution: 1280x720
+Name: 凤凰卫视资讯台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=4TqY6i&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 106 ms, Speed: 0.00 M/s, Resolution: 1280x720
+Name: 凤凰卫视香港台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=E3MlwZ&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 109 ms, Speed: 0.00 M/s, Resolution: 1280x720
 Name: 香港有线新闻台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ZxFoo8&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 109 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 香港有线18台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Zlrzkj&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 105 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 香港有线18台(普通话), URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=zFMpvp&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 108 ms, Speed: 0.00 M/s, Resolution: 1280x720
-Name: TVB无线新闻台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=SFF3HU&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 110 ms, Speed: 0.00 M/s, Resolution: None
+Name: 香港有线18台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Zlrzkj&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 108 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 香港有线18台(普通话), URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=zFMpvp&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 111 ms, Speed: 0.00 M/s, Resolution: 1280x720
+Name: TVB无线新闻台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=SFF3HU&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 108 ms, Speed: 0.00 M/s, Resolution: None
 Name: TVB翡翠台, URL: http://php.jdshipin.com:8880/smt.php?id=jade_twn, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 黃金翡翠台, URL: http://aktv-stream.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 42 ms, Speed: 1.16 M/s, Resolution: 1280x720
+Name: 黃金翡翠台, URL: http://aktv-stream.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 39 ms, Speed: 1.20 M/s, Resolution: 1280x720
 Name: 黃金翡翠台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=4TLtN5&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 106 ms, Speed: 0.00 M/s, Resolution: 1280x720
 Name: TVB明珠台, URL: http://php.jdshipin.com/TVOD/iptv.php?id=mzt, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: TVB Plus, URL: https://stream1.freetv.fun/tvb-j2-2.ctv, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: TVB娱乐新闻台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=IrWofY&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 109 ms, Speed: 0.00 M/s, Resolution: 1280x720
-Name: TVB星河, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=X89Cd9&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 109 ms, Speed: 0.00 M/s, Resolution: None
-Name: myTV SUPER 18台, URL: http://aktv-stream.m16tv.cfd/stream/aktv/mytvsuper18/AKTV.m3u8, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 36 ms, Speed: 1.26 M/s, Resolution: 1280x720
-Name: myTV SUPER 18台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ibiUZ4&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 111 ms, Speed: 0.00 M/s, Resolution: None
-Name: ViuTV, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ngv0JG&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 104 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: ViuTV6, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=kGfYUy&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 106 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: NOW直播台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=3MtnZZ&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 106 ms, Speed: 0.00 M/s, Resolution: None
-Name: NOW新闻台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=T90xsd&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 107 ms, Speed: 0.00 M/s, Resolution: None
-Name: NOW财经台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=y16NJo&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 108 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: NOW SPORTS PRIME, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=7II3YQ&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 105 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: HOY国际财经台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=jMBlb0&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 109 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: TVB星河, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=X89Cd9&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 118 ms, Speed: 0.00 M/s, Resolution: None
+Name: myTV SUPER 18台, URL: http://aktv-stream.m16tv.cfd/stream/aktv/mytvsuper18/AKTV.m3u8, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 33 ms, Speed: 1.33 M/s, Resolution: 1280x720
+Name: myTV SUPER 18台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ibiUZ4&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 107 ms, Speed: 0.00 M/s, Resolution: None
+Name: ViuTV, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ngv0JG&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 107 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: ViuTV6, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=kGfYUy&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 107 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: NOW直播台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=3MtnZZ&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 107 ms, Speed: 0.00 M/s, Resolution: None
+Name: NOW新闻台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=T90xsd&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 106 ms, Speed: 0.00 M/s, Resolution: None
+Name: NOW财经台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=y16NJo&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 107 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: NOW SPORTS PRIME, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=7II3YQ&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 112 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: HOY国际财经台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=jMBlb0&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 142 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: HOY TV, URL: http://cdn.132.us.kg/live/hoy/stream.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: HOY资讯台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=e5kp6t&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 106 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: HOY资讯台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=e5kp6t&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 107 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: 港台电视31, URL: http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 港台电视32, URL: http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 东森新闻台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ANZZ7A&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 105 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 东森财经新闻台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=FaIoDg&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 113 ms, Speed: 0.00 M/s, Resolution: 1280x720
-Name: 年代新闻台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Hpofr7&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 109 ms, Speed: 0.00 M/s, Resolution: None
-Name: 寰宇新闻台湾台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Yn3lht&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 105 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 台视新闻台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=YdyV3R&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 105 ms, Speed: 0.00 M/s, Resolution: 1280x720
-Name: 中视新闻台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=zd3lyW&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 107 ms, Speed: 0.00 M/s, Resolution: 1280x720
-Name: 华视新闻台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=VbwaXE&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 105 ms, Speed: 0.00 M/s, Resolution: None
-Name: TVBS新闻台, URL: http://61.221.215.25:8800/hls/9/index.m3u8, IPv_Type: ipv4, Location: 中国-台湾, ISP: 中华电信, Date: None, Delay: 7389 ms, Speed: 0.27 M/s, Resolution: 1280x720
-Name: TVBS新闻台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=3cpTqv&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 106 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 三立新闻台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=PTiS4c&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 109 ms, Speed: 0.00 M/s, Resolution: None
-Name: 三立iNEWS, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=lsDHoV&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 108 ms, Speed: 0.00 M/s, Resolution: None
-Name: 镜电视新闻台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=FyHqYh&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 106 ms, Speed: 0.00 M/s, Resolution: 1280x720
-Name: 非凡新闻, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=3b8S4e&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 109 ms, Speed: 0.00 M/s, Resolution: 1280x720
-Name: 公视新闻, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=wXHqL7&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 107 ms, Speed: 0.00 M/s, Resolution: None
-Name: 民视新闻台, URL: http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-洛杉矶, ISP: Cogent, Date: None, Delay: 1354 ms, Speed: 1.02 M/s, Resolution: 1920x1080
-Name: 民视第一台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Oca8Qh&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 111 ms, Speed: 0.00 M/s, Resolution: 1280x720
-Name: 民视台湾台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Mkypwe&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 111 ms, Speed: 0.00 M/s, Resolution: 1280x720
-Name: 民视影剧台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=MoStlD&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 109 ms, Speed: 0.00 M/s, Resolution: 1280x720
-Name: 民视旅游台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=8f0K9e&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 107 ms, Speed: 0.00 M/s, Resolution: 1280x720
-Name: 民视综艺台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=EULb94&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 192 ms, Speed: 0.00 M/s, Resolution: 1280x720
+Name: 东森新闻台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ANZZ7A&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 108 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 东森财经新闻台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=FaIoDg&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 121 ms, Speed: 0.00 M/s, Resolution: 1280x720
+Name: 年代新闻台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Hpofr7&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 108 ms, Speed: 0.00 M/s, Resolution: None
+Name: 寰宇新闻台湾台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Yn3lht&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 110 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 台视新闻台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=YdyV3R&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 107 ms, Speed: 0.00 M/s, Resolution: 1280x720
+Name: 中视新闻台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=zd3lyW&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 112 ms, Speed: 0.00 M/s, Resolution: 1280x720
+Name: 华视新闻台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=VbwaXE&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 118 ms, Speed: 0.00 M/s, Resolution: None
+Name: TVBS新闻台, URL: http://61.221.215.25:8800/hls/9/index.m3u8, IPv_Type: ipv4, Location: 中国-台湾, ISP: 中华电信, Date: None, Delay: 7304 ms, Speed: 0.27 M/s, Resolution: 1280x720
+Name: TVBS新闻台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=3cpTqv&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 107 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 三立新闻台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=PTiS4c&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 106 ms, Speed: 0.00 M/s, Resolution: None
+Name: 三立iNEWS, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=lsDHoV&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 107 ms, Speed: 0.00 M/s, Resolution: None
+Name: 镜电视新闻台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=FyHqYh&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 146 ms, Speed: 0.00 M/s, Resolution: 1280x720
+Name: 非凡新闻, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=3b8S4e&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 108 ms, Speed: 0.00 M/s, Resolution: 1280x720
+Name: 公视新闻, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=wXHqL7&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 105 ms, Speed: 0.00 M/s, Resolution: None
+Name: 民视新闻台, URL: http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-洛杉矶, ISP: Cogent, Date: None, Delay: 2414 ms, Speed: 0.49 M/s, Resolution: 1920x1080
+Name: 民视第一台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Oca8Qh&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 106 ms, Speed: 0.00 M/s, Resolution: 1280x720
+Name: 民视台湾台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Mkypwe&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 106 ms, Speed: 0.00 M/s, Resolution: 1280x720
+Name: 民视影剧台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=MoStlD&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 105 ms, Speed: 0.00 M/s, Resolution: 1280x720
+Name: 民视旅游台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=8f0K9e&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 106 ms, Speed: 0.00 M/s, Resolution: 1280x720
+Name: 民视综艺台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=EULb94&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 114 ms, Speed: 0.00 M/s, Resolution: 1280x720
 Name: 民视, URL: rtmp://f13h.mine.nu/sat/tv051, IPv_Type: ipv4, Location: 中国-台湾-台中市, ISP: 中华电信, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1280x720
-Name: 民视, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=dxows9&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 114 ms, Speed: 0.00 M/s, Resolution: 1280x720
+Name: 民视, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=dxows9&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 112 ms, Speed: 0.00 M/s, Resolution: 1280x720
 Name: 台视, URL: rtmp://f13h.mine.nu/sat/tv071, IPv_Type: ipv4, Location: 中国-台湾-台中市, ISP: 中华电信, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1280x720
-Name: 台视, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=WXeDaq&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 118 ms, Speed: 0.00 M/s, Resolution: 1280x720
+Name: 台视, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=WXeDaq&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 108 ms, Speed: 0.00 M/s, Resolution: 1280x720
 Name: 中视, URL: rtmp://f13h.mine.nu/sat/tv091, IPv_Type: ipv4, Location: 中国-台湾-台中市, ISP: 中华电信, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1280x720
-Name: 中视, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=HO0Z3M&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 114 ms, Speed: 0.00 M/s, Resolution: 1280x720
+Name: 中视, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=HO0Z3M&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 109 ms, Speed: 0.00 M/s, Resolution: 1280x720
 Name: 华视, URL: rtmp://f13h.mine.nu/sat/tv111, IPv_Type: ipv4, Location: 中国-台湾-台中市, ISP: 中华电信, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1280x720
-Name: 华视, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=LOZ7tH&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 108 ms, Speed: 0.00 M/s, Resolution: None
+Name: 华视, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=LOZ7tH&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 106 ms, Speed: 0.00 M/s, Resolution: None
 Name: TVBS欢乐台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=sTEGGj&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 105 ms, Speed: 0.00 M/s, Resolution: 1280x720
 Name: TVBS精彩台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=MZVzsr&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 107 ms, Speed: 0.00 M/s, Resolution: 1280x720
-Name: 三立台湾台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=SOTGmQ&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 108 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 中天亚洲台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=TtoBRd&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 106 ms, Speed: 0.00 M/s, Resolution: 1280x720
-Name: 纬来体育台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ZLJeiD&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 123 ms, Speed: 0.00 M/s, Resolution: 1280x720
-Name: 纬来日本台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=lkucUi&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 108 ms, Speed: 0.00 M/s, Resolution: 1280x720
-Name: 纬来育乐台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=mWjiLM&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 110 ms, Speed: 0.00 M/s, Resolution: 1280x720
-Name: ELEVEN 1（DAZN 1）, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=X8QQft&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 121 ms, Speed: 0.00 M/s, Resolution: 1280x720
-Name: ELEVEN 2（DAZN 2）, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=qk4yyt&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 161 ms, Speed: 0.00 M/s, Resolution: None
-Name: 爱尔达体育1台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=DRD4uF&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 105 ms, Speed: 0.00 M/s, Resolution: None
-Name: 爱尔达体育2台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=DKEITZ&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 108 ms, Speed: 0.00 M/s, Resolution: None
-Name: 爱尔达体育3台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=rsPpol&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 106 ms, Speed: 0.00 M/s, Resolution: None
-Name: 爱尔达体育4台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=BCNevd&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 1228 ms, Speed: 0.00 M/s, Resolution: None
-Name: 大爱一台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=P5y8Dt&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 106 ms, Speed: 0.00 M/s, Resolution: None
+Name: 三立台湾台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=SOTGmQ&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 107 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 中天亚洲台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=TtoBRd&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 108 ms, Speed: 0.00 M/s, Resolution: 1280x720
+Name: 纬来体育台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ZLJeiD&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 106 ms, Speed: 0.00 M/s, Resolution: 1280x720
+Name: 纬来日本台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=lkucUi&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 110 ms, Speed: 0.00 M/s, Resolution: 1280x720
+Name: 纬来育乐台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=mWjiLM&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 105 ms, Speed: 0.00 M/s, Resolution: 1280x720
+Name: ELEVEN 1（DAZN 1）, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=X8QQft&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 154 ms, Speed: 0.00 M/s, Resolution: 1280x720
+Name: ELEVEN 2（DAZN 2）, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=qk4yyt&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 108 ms, Speed: 0.00 M/s, Resolution: None
+Name: 爱尔达体育1台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=DRD4uF&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 108 ms, Speed: 0.00 M/s, Resolution: None
+Name: 爱尔达体育2台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=DKEITZ&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 128 ms, Speed: 0.00 M/s, Resolution: None
+Name: 爱尔达体育3台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=rsPpol&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 105 ms, Speed: 0.00 M/s, Resolution: None
+Name: 爱尔达体育4台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=BCNevd&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 113 ms, Speed: 0.00 M/s, Resolution: None
+Name: 大爱一台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=P5y8Dt&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 107 ms, Speed: 0.00 M/s, Resolution: None
 Name: 大爱二台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Yq4r3L&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 106 ms, Speed: 0.00 M/s, Resolution: None
-Name: MOMO综合台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=fu3dA1&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 105 ms, Speed: 0.00 M/s, Resolution: 1280x720
-Name: HBO HD, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ZHgruk&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 106 ms, Speed: 0.00 M/s, Resolution: 1280x720
-Name: FOX新聞, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=jEEOPr&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 106 ms, Speed: 0.00 M/s, Resolution: 1280x720
-Name: CNN新闻, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=35r1sa&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 107 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: BBC新闻, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=1qlfsj&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 107 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: MOMO综合台, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=fu3dA1&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 106 ms, Speed: 0.00 M/s, Resolution: 1280x720
+Name: HBO HD, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ZHgruk&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 109 ms, Speed: 0.00 M/s, Resolution: 1280x720
+Name: FOX新聞, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=jEEOPr&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 110 ms, Speed: 0.00 M/s, Resolution: 1280x720
+Name: CNN新闻, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=35r1sa&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 106 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: BBC新闻, URL: http://kkk.888.3116598.xyz/api.php?n=HKTV&id=1qlfsj&tk=Qm95Yth8Uj0Y, IPv_Type: ipv4, Location: 捷克, ISP: , Date: None, Delay: 106 ms, Speed: 0.00 M/s, Resolution: 1920x1080
