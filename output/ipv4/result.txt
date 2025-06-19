@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-06-19 06:16:17,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=E60gt1&tk=Qm95Yth8Uj0Y
+2025-06-19 18:18:51,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=E60gt1&tk=Qm95Yth8Uj0Y
 
 极速港台,#genre#
 凤凰中文台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=E60gt1&tk=Qm95Yth8Uj0Y
@@ -50,6 +50,7 @@ TVBS HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=BgF1dJ&tk=Qm95Yth8Uj0Y
 TVBS HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=JPwMAA&tk=Qm95Yth8Uj0Y
 TVBS HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=sTChzg&tk=Qm95Yth8Uj0Y
 台视新闻,http://222.128.55.152:9080/live/ts.m3u8
+台视新闻,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=h7V4UH&tk=Qm95Yth8Uj0Y
 动物星球,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ai6Xjb&tk=Qm95Yth8Uj0Y
 
 台湾酒店,#genre#
