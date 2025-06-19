@@ -1,193 +1,47 @@
 🕘️更新时间,#genre#
-2025-06-19 18:18:51,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f
+2025-06-19 20:31:55,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
 
-极速港台,#genre#
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f
+🌊港·澳·台,#genre#
+无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
+无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
+无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
+无线新闻,https://v2hcdn.jdshipin.com/news/news.stream/chunklist_w105.m3u8
+无线新闻,http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
 翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
-翡翠台,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
-TVB Plus,https://stream1.freetv.fun/tvb-j2-2.ctv
-美亚电影,https://live.tvfix.org/live/mydy/index.m3u8
-
-台湾酒店,#genre#
-Taiwan Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-
-极速土拨鼠,#genre#
-TVB翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
-TVB明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
-TVB Plus,https://stream1.freetv.fun/tvb-j2-2.ctv
-HOY TV,http://cdn.132.us.kg/live/hoy/stream.m3u8
-港台电视31,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
-港台电视32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+翡翠台,https://stream1.freetv.fun/fei-cui-6.ctv
+翡翠台,https://stream1.freetv.fun/fei-cui-1.m3u8
+翡翠台,https://stream1.freetv.fun/fei-cui-10.m3u8
+翡翠台,https://cdn3.163189.xyz/live/fct/stream.m3u8
+翡翠台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3
+翡翠台,https://cdn5.1678520.xyz/live/live2.1.php?id=j1
+翡翠台,https://cdn.163189.xyz/live/fct4k/stream.m3u8
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+翡翠台,https://stream1.freetv.fun/ba009d94229ed40a5d9289178463fba7aa31fb0622f8ab2d66c01147828743ab.m3u8
+翡翠台,https://stream1.freetv.fun/fei-cui-9.m3u8
+翡翠台,https://stream1.freetv.fun/fei-cui-2.ctv
+翡翠台,http://cdn5.1678520.xyz/live/?id=fct
+东森综合,https://smart.pendy.dpdns.org/Smart.php?id=ettvzhonghe
 
 🈳无结果频道,#genre#
-凤凰中文台,url
-凤凰资讯台,url
-凤凰香港台,url
-无线新闻台,url
-TVB生活台,url
-TVB星河(国),url
-TVB功夫(国),url
-TVB功夫(粤),url
-PopC电影台,url
-黄金华剧台(国),url
-黄金华剧台(粤),url
-Hub娱家,url
-Hub都会,url
-星空卫视,url
-星空V音乐,url
-星空电影,url
-凤凰电影,url
-Now爆谷台,url
-Now星影台,url
-HOY77,url
+HOY TV,url
 HOY78,url
+TVB PLUS,url
+重温经典,url
+中天新闻,url
+中天新闻+,url
+寰宇新闻,url
+民视第一,url
+民视闽南,url
 中天亚洲,url
 中天综合,url
 中天娱乐,url
-中天亚洲(备),url
-民视第一,url
-民视台湾,url
-东森超视,url
-东森综合,url
 八大第一,url
 八大综合,url
-爱尔达娱乐,url
-Channel5HD,url
-Channel8HD,url
-ChannelUHD,url
-八度空間,url
-寰宇新闻台,url
-中天新闻台,url
-中天新闻2,url
-中视新闻,url
-TVBS HD,url
-台视新闻,url
-动物星球,url
-中視HD,url
-華視HD,url
-民視HD,url
-公視,url
-人間衛視,url
-大愛電視,url
-好消息GOOD TV,url
-Trace Sport Stars,url
-DISCOVERY,url
-旅遊生活,url
-動物星球,url
-亞洲旅遊,url
-MOMO親子台,url
-東森幼幼HD,url
-龍華卡通台,url
-緯來綜合HD,url
-八大第一HD,url
-八大綜合HD,url
-三立台灣HD,url
-三立都會HD,url
-韓國娛樂台,url
-東森綜合HD,url
-超視HD,url
-中天綜合HD,url
-中天娛樂HD,url
-東風衛視,url
-MUCH TV,url
-東森戲劇HD,url
-八大戲劇HD,url
-TVBS歡樂HD,url
-緯來戲劇,url
-龍華戲劇台,url
-龍華日韓劇,url
-龍華偶像劇,url
-緯來日本HD,url
-年代新聞,url
-東森新聞HD,url
-中天新聞,url
-民視新聞,url
-三立新聞HD,url
-TVBS新聞HD,url
-TVBS HD,url
-非凡新聞HD,url
-非凡商業HD,url
-東森財經HD,url
-寰宇新聞,url
-壹新聞,url
-Bloomberg News,url
-NHK世界HD,url
-鏡電視新聞台,url
-好萊塢電影HD,url
-緯來電影HD,url
-龍華電影台,url
-HBO,url
-AXN,url
-CINEMAX HD,url
-AMC 電影台,url
-寵物頻道,url
-緯來育樂HD,url
-緯來體育HD,url
-博斯運動一,url
-momo綜合台,url
-凤凰卫视中文台,url
-凤凰卫视资讯台,url
-凤凰卫视香港台,url
-香港有线新闻台,url
-香港有线18台,url
-香港有线18台(普通话),url
-TVB无线新闻台,url
-黃金翡翠台,url
-TVB娱乐新闻台,url
-TVB星河,url
-myTV SUPER 18台,url
-ViuTV,url
-ViuTV6,url
-NOW直播台,url
-NOW新闻台,url
-NOW财经台,url
-NOW SPORTS PRIME,url
-HOY国际财经台,url
-HOY资讯台,url
-中天新闻台,url
-东森新闻台,url
-东森财经新闻台,url
-年代新闻台,url
-寰宇新闻台,url
-寰宇新闻台湾台,url
-台视新闻台,url
-中视新闻台,url
-华视新闻台,url
-TVBS新闻台,url
-三立新闻台,url
-三立iNEWS,url
-镜电视新闻台,url
-非凡新闻,url
-公视新闻,url
-民视新闻台,url
-民视第一台,url
-民视台湾台,url
-民视影剧台,url
-民视旅游台,url
-民视综艺台,url
-民视,url
-台视,url
-中视,url
-华视,url
-TVBS HD,url
-TVBS欢乐台,url
-TVBS精彩台,url
-三立台湾台,url
-中天亚洲台,url
-纬来体育台,url
-纬来日本台,url
-纬来育乐台,url
-ELEVEN 1（DAZN 1）,url
-ELEVEN 2（DAZN 2）,url
-爱尔达体育1台,url
-爱尔达体育2台,url
-爱尔达体育3台,url
-爱尔达体育4台,url
-大爱一台,url
-大爱二台,url
-MOMO综合台,url
-东森超视,url
-HBO HD,url
-FOX新聞,url
-CNN新闻,url
-BBC新闻,url
+ELta娱乐,url
